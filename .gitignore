@@ -1,0 +1,6 @@
+./attention_images
+./data
+./dsm/dataset
+*.csv
+*.png
+*.jpg
